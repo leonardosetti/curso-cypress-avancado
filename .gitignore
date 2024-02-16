@@ -3,3 +3,6 @@ cypress/screenshots/
 cypress/videos/
 node_modules/
 
+cypress/e2e/testWhatever.cy.js
+.gitignore
+.vscode
